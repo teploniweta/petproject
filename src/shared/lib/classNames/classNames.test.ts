@@ -7,7 +7,8 @@ describe('name', () => {
 
   test('with additional class', () => {
     const expected = 'cls add_class_1 add_class_2';
-    expect(classNames('cls', {}, ['add_class_1', 'add_class_2'])).toBe(expected);
+    expect(classNames('cls', {}, ['add_class_1', 'add_class_2']))
+      .toBe(expected);
   });
 
   test('with mods', () => {
