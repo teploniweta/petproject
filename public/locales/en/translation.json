@@ -1,7 +1,10 @@
 {
+  "throw error": "Вызвать ошибку",
   "Главная": "Main",
   "О сайте": "About page",
+  "Обновить страницу": "Reload page",
   "Основная страница": "Main page",
+  "Произошла непредвиденная ошибка": "\nAn unexpected error occurred",
   "Раскрыть": "Collapse",
   "Страница не найдена": "Page not found",
   "Тестовый перевод": "Test translate",
