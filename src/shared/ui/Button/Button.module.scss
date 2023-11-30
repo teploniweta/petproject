@@ -17,19 +17,19 @@
     background: none;
 }
 
-.background{
+.background {
     background: var(--bg-color);
     color: var(--primary-color);
     border: none;
 }
 
-.backgroundInverted{
+.backgroundInverted {
     background: var(--inverted-bg-color);
     color: var(--inverted-primary-color);
     border: none;
 }
 
-.square{
+.square {
     padding: 0;
 }
 
@@ -59,4 +59,3 @@
 .size_xl {
     font: var(--font-size-xl);
 }
-
