@@ -1,7 +1,7 @@
 .Button {
     cursor: pointer;
     color: var(--primary-color);
-    padding: 10px 15px;
+    padding: 6px 15px;
 }
 
 .clear {
@@ -49,13 +49,13 @@
 }
 
 .size_m {
-    font: var(--font-size-m);
+    font: var(--font-m);
 }
 
 .size_l {
-    font: var(--font-size-l);
+    font: var(--font-l);
 }
 
 .size_xl {
-    font: var(--font-size-xl);
+    font: var(--font-xl);
 }
